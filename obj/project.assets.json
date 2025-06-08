@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/edjeronimo/Documentos/SistemaFinanceiro/SistemaFinanceiro.csproj",
+      "projectUniqueName": "/home/edjeronimo/Documentos/GitHub/sis-financeiro/SistemaFinanceiro.csproj",
       "projectName": "SistemaFinanceiro",
-      "projectPath": "/home/edjeronimo/Documentos/SistemaFinanceiro/SistemaFinanceiro.csproj",
+      "projectPath": "/home/edjeronimo/Documentos/GitHub/sis-financeiro/SistemaFinanceiro.csproj",
       "packagesPath": "/home/edjeronimo/.nuget/packages/",
-      "outputPath": "/home/edjeronimo/Documentos/SistemaFinanceiro/obj/",
+      "outputPath": "/home/edjeronimo/Documentos/GitHub/sis-financeiro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/edjeronimo/.nuget/NuGet/NuGet.Config"
