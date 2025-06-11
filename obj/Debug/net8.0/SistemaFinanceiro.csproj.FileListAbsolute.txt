@@ -12,3 +12,11 @@
 /home/edjeronimo/Documentos/SistemaFinanceiro/obj/Debug/net8.0/SistemaFinanceiro.pdb
 /home/edjeronimo/Documentos/SistemaFinanceiro/obj/Debug/net8.0/SistemaFinanceiro.genruntimeconfig.cache
 /home/edjeronimo/Documentos/SistemaFinanceiro/obj/Debug/net8.0/ref/SistemaFinanceiro.dll
+/home/edjeronimo/Documentos/GitHub/sis-financeiro/obj/Debug/net8.0/SistemaFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+/home/edjeronimo/Documentos/GitHub/sis-financeiro/obj/Debug/net8.0/SistemaFinanceiro.AssemblyInfoInputs.cache
+/home/edjeronimo/Documentos/GitHub/sis-financeiro/obj/Debug/net8.0/SistemaFinanceiro.AssemblyInfo.cs
+/home/edjeronimo/Documentos/GitHub/sis-financeiro/obj/Debug/net8.0/SistemaFinanceiro.csproj.CoreCompileInputs.cache
+/home/edjeronimo/Documentos/GitHub/sis-financeiro/obj/Debug/net8.0/SistemaFinanceiro.sourcelink.json
+/home/edjeronimo/Documentos/GitHub/sis-financeiro/obj/Debug/net8.0/SistemaFinanceiro.dll
+/home/edjeronimo/Documentos/GitHub/sis-financeiro/obj/Debug/net8.0/refint/SistemaFinanceiro.dll
+/home/edjeronimo/Documentos/GitHub/sis-financeiro/obj/Debug/net8.0/SistemaFinanceiro.pdb

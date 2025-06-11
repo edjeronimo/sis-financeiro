@@ -61,4 +61,17 @@ namespace SistemaFinanceiro
             }
         }
 
-        public void RegistrarCredito(Guid idConta, decimal valor, Moeda moeda, DateTime dataHora,
+        public void RegistrarCredito(Guid idConta, decimal valor, Moeda moeda, DateTime dataHora, string descricao)
+        {
+            if (!_contas.TryGetValue(idConta, out var conta))
+            {
+                throw new ContaNaoEncontradaException(idConta);
+            }
+
+            ValidarTransacao(conta, valor, moeda);
+
+            var transacao = new Transacao(TipoTransacao.Credito, valor, moeda, dataHora, descricao);
+            conta.AdicionarTransacao(transacao);
+        }
+    }
+}

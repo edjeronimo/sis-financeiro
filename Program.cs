@@ -4,6 +4,9 @@ using System.Collections.Generic;
 
 namespace SistemaFinanceiro
 {
+    // A definição do enum Moeda foi removida daqui para evitar o erro de duplicação.
+    // Assumimos que Moeda já está definido em outro arquivo no seu projeto.
+
     public static class ConsoleHelper
     {
         public static string GetString(string prompt, bool canBeEmpty = false)
@@ -63,5 +66,5 @@ namespace SistemaFinanceiro
                 Console.WriteLine("Formato de data/hora inválido. Use dd/MM/yyyy HH:mm:ss.");
             }
         }
-
-        public
+    }
+}
